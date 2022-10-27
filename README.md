@@ -41,6 +41,17 @@ $ source install/local_setup.bash
 $ ros2 run micro_ros_setup create_firmware_ws.sh freertos esp32
 ```
 
+The execution of this command may take a while and you may get an error 
+![Erreur](https://user-images.githubusercontent.com/85931327/198252509-72939982-a821-4950-9f1a-2aa5e91393bd.png)
+
+In that case you run :
+```
+$ cd
+$ pip install Jinja2
+$ pip install sphinx
+```
+Than go back to your workspace_directory and try again
+
 ## Configuring the firmware with the desired application which is an int32 publisher this time
 
 You can either work with serial communication or wifi udp
