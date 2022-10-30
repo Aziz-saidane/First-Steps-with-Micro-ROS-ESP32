@@ -1,0 +1,4 @@
+Invoking command in '/home/aziz/Desktop/First-Steps-with-Micro-ROS-ESP32/build/drive_base_msgs': /usr/bin/cmake --build /home/aziz/Desktop/First-Steps-with-Micro-ROS-ESP32/build/drive_base_msgs -- -j4 -l4
+Invoked command in '/home/aziz/Desktop/First-Steps-with-Micro-ROS-ESP32/build/drive_base_msgs' returned '0': /usr/bin/cmake --build /home/aziz/Desktop/First-Steps-with-Micro-ROS-ESP32/build/drive_base_msgs -- -j4 -l4
+Invoking command in '/home/aziz/Desktop/First-Steps-with-Micro-ROS-ESP32/build/drive_base_msgs': /usr/bin/cmake --install /home/aziz/Desktop/First-Steps-with-Micro-ROS-ESP32/build/drive_base_msgs
+Invoked command in '/home/aziz/Desktop/First-Steps-with-Micro-ROS-ESP32/build/drive_base_msgs' returned '0': /usr/bin/cmake --install /home/aziz/Desktop/First-Steps-with-Micro-ROS-ESP32/build/drive_base_msgs
