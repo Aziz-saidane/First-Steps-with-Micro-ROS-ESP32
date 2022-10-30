@@ -1,7 +1,0 @@
-{
-  "package_name": "builtin_interfaces",
-  "non_idl_tuples": [
-    "/home/aziz/microros_ws1/firmware/mcu_ws/ros2/rcl_interfaces/builtin_interfaces:msg/Duration.msg",
-    "/home/aziz/microros_ws1/firmware/mcu_ws/ros2/rcl_interfaces/builtin_interfaces:msg/Time.msg"
-  ]
-}

@@ -1,4 +1,0 @@
-Invoking command in '/home/aziz/microros_ws1/build/micro_ros_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/aziz/microros_ws1/build/micro_ros_msgs -- -j4 -l4
-Invoked command in '/home/aziz/microros_ws1/build/micro_ros_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/aziz/microros_ws1/build/micro_ros_msgs -- -j4 -l4
-Invoking command in '/home/aziz/microros_ws1/build/micro_ros_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/aziz/microros_ws1/build/micro_ros_msgs
-Invoked command in '/home/aziz/microros_ws1/build/micro_ros_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/aziz/microros_ws1/build/micro_ros_msgs
