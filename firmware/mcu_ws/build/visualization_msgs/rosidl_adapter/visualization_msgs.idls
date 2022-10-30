@@ -1,0 +1,11 @@
+/home/aziz/microros_ws1/firmware/mcu_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/ImageMarker.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarker.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerControl.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerFeedback.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerInit.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerPose.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerUpdate.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/Marker.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/MarkerArray.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/MenuEntry.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/visualization_msgs/rosidl_adapter/visualization_msgs:srv/GetInteractiveMarkers.idl

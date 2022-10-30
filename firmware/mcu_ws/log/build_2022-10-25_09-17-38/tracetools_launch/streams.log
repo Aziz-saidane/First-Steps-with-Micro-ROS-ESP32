@@ -1,0 +1,48 @@
+[1.599s] Invoking command in '/home/aziz/microros_ws1/firmware/mcu_ws/uros/tracetools/tracetools_launch': AMENT_PREFIX_PATH=/home/aziz/microros_ws1/firmware/mcu_ws/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/aziz/microros_ws1/firmware/mcu_ws/install:${CMAKE_PREFIX_PATH} PYTHONPATH=/home/aziz/microros_ws1/firmware/mcu_ws/install/lib/python3.8/site-packages:/home/aziz/microros_ws1/firmware/mcu_ws/install/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/tracetools_launch build --build-base /home/aziz/microros_ws1/firmware/mcu_ws/build/tracetools_launch/build install --prefix /home/aziz/microros_ws1/firmware/mcu_ws/install --record /home/aziz/microros_ws1/firmware/mcu_ws/build/tracetools_launch/install.log --single-version-externally-managed
+[1.964s] /home/aziz/.local/lib/python3.8/site-packages/setuptools/dist.py:771: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[1.964s]   warnings.warn(
+[1.965s] /home/aziz/.local/lib/python3.8/site-packages/setuptools/dist.py:771: UserWarning: Usage of dash-separated 'install-scripts' will not be supported in future versions. Please use the underscore name 'install_scripts' instead
+[1.965s]   warnings.warn(
+[2.064s] running egg_info
+[2.064s] creating ../../../build/tracetools_launch/tracetools_launch.egg-info
+[2.085s] writing ../../../build/tracetools_launch/tracetools_launch.egg-info/PKG-INFO
+[2.085s] writing dependency_links to ../../../build/tracetools_launch/tracetools_launch.egg-info/dependency_links.txt
+[2.086s] writing requirements to ../../../build/tracetools_launch/tracetools_launch.egg-info/requires.txt
+[2.086s] writing top-level names to ../../../build/tracetools_launch/tracetools_launch.egg-info/top_level.txt
+[2.086s] writing manifest file '../../../build/tracetools_launch/tracetools_launch.egg-info/SOURCES.txt'
+[2.105s] reading manifest file '../../../build/tracetools_launch/tracetools_launch.egg-info/SOURCES.txt'
+[2.105s] /home/aziz/.local/lib/python3.8/site-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.105s]   warnings.warn(
+[2.105s] writing manifest file '../../../build/tracetools_launch/tracetools_launch.egg-info/SOURCES.txt'
+[2.106s] running build
+[2.106s] running build_py
+[2.106s] creating /home/aziz/microros_ws1/firmware/mcu_ws/build/tracetools_launch/build
+[2.106s] creating /home/aziz/microros_ws1/firmware/mcu_ws/build/tracetools_launch/build/lib
+[2.107s] creating /home/aziz/microros_ws1/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch
+[2.107s] copying tracetools_launch/__init__.py -> /home/aziz/microros_ws1/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch
+[2.107s] copying tracetools_launch/action.py -> /home/aziz/microros_ws1/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch
+[2.107s] creating /home/aziz/microros_ws1/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch/actions
+[2.107s] copying tracetools_launch/actions/__init__.py -> /home/aziz/microros_ws1/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch/actions
+[2.108s] copying tracetools_launch/actions/ld_preload.py -> /home/aziz/microros_ws1/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch/actions
+[2.108s] running install
+[2.112s] running install_lib
+[2.124s] creating /home/aziz/microros_ws1/firmware/mcu_ws/install/lib/python3.8/site-packages/tracetools_launch
+[2.125s] creating /home/aziz/microros_ws1/firmware/mcu_ws/install/lib/python3.8/site-packages/tracetools_launch/actions
+[2.125s] copying /home/aziz/microros_ws1/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch/actions/__init__.py -> /home/aziz/microros_ws1/firmware/mcu_ws/install/lib/python3.8/site-packages/tracetools_launch/actions
+[2.126s] copying /home/aziz/microros_ws1/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch/actions/ld_preload.py -> /home/aziz/microros_ws1/firmware/mcu_ws/install/lib/python3.8/site-packages/tracetools_launch/actions
+[2.126s] copying /home/aziz/microros_ws1/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch/__init__.py -> /home/aziz/microros_ws1/firmware/mcu_ws/install/lib/python3.8/site-packages/tracetools_launch
+[2.126s] copying /home/aziz/microros_ws1/firmware/mcu_ws/build/tracetools_launch/build/lib/tracetools_launch/action.py -> /home/aziz/microros_ws1/firmware/mcu_ws/install/lib/python3.8/site-packages/tracetools_launch
+[2.126s] byte-compiling /home/aziz/microros_ws1/firmware/mcu_ws/install/lib/python3.8/site-packages/tracetools_launch/actions/__init__.py to __init__.cpython-38.pyc
+[2.126s] byte-compiling /home/aziz/microros_ws1/firmware/mcu_ws/install/lib/python3.8/site-packages/tracetools_launch/actions/ld_preload.py to ld_preload.cpython-38.pyc
+[2.127s] byte-compiling /home/aziz/microros_ws1/firmware/mcu_ws/install/lib/python3.8/site-packages/tracetools_launch/__init__.py to __init__.cpython-38.pyc
+[2.127s] byte-compiling /home/aziz/microros_ws1/firmware/mcu_ws/install/lib/python3.8/site-packages/tracetools_launch/action.py to action.cpython-38.pyc
+[2.128s] running install_data
+[2.143s] copying package.xml -> /home/aziz/microros_ws1/firmware/mcu_ws/install/share/tracetools_launch
+[2.143s] creating /home/aziz/microros_ws1/firmware/mcu_ws/install/share/tracetools_launch/launch
+[2.143s] copying launch/example.launch.py -> /home/aziz/microros_ws1/firmware/mcu_ws/install/share/tracetools_launch/launch
+[2.143s] copying resource/tracetools_launch -> /home/aziz/microros_ws1/firmware/mcu_ws/install/share/ament_index/resource_index/packages
+[2.143s] running install_egg_info
+[2.176s] Copying ../../../build/tracetools_launch/tracetools_launch.egg-info to /home/aziz/microros_ws1/firmware/mcu_ws/install/lib/python3.8/site-packages/tracetools_launch-1.0.2-py3.8.egg-info
+[2.177s] running install_scripts
+[2.239s] writing list of installed files to '/home/aziz/microros_ws1/firmware/mcu_ws/build/tracetools_launch/install.log'
+[2.301s] Invoked command in '/home/aziz/microros_ws1/firmware/mcu_ws/uros/tracetools/tracetools_launch' returned '0': AMENT_PREFIX_PATH=/home/aziz/microros_ws1/firmware/mcu_ws/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/aziz/microros_ws1/firmware/mcu_ws/install:${CMAKE_PREFIX_PATH} PYTHONPATH=/home/aziz/microros_ws1/firmware/mcu_ws/install/lib/python3.8/site-packages:/home/aziz/microros_ws1/firmware/mcu_ws/install/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/tracetools_launch build --build-base /home/aziz/microros_ws1/firmware/mcu_ws/build/tracetools_launch/build install --prefix /home/aziz/microros_ws1/firmware/mcu_ws/install --record /home/aziz/microros_ws1/firmware/mcu_ws/build/tracetools_launch/install.log --single-version-externally-managed

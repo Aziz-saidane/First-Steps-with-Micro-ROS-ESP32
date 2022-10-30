@@ -1,0 +1,39 @@
+[1.392s] Invoking command in '/home/aziz/microros_ws1/firmware/dev_ws/ament/ament_lint/ament_pyflakes': AMENT_PREFIX_PATH=/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pycodestyle PATH=/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pycodestyle/bin:${PATH} PYTHONPATH=/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pyflakes/lib/python3.8/site-packages:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pycodestyle/lib/python3.8/site-packages /usr/bin/python3 setup.py egg_info --egg-base ../../../build/ament_pyflakes build --build-base /home/aziz/microros_ws1/firmware/dev_ws/build/ament_pyflakes/build install --prefix /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pyflakes --record /home/aziz/microros_ws1/firmware/dev_ws/build/ament_pyflakes/install.log --single-version-externally-managed
+[1.808s] running egg_info
+[1.809s] creating ../../../build/ament_pyflakes/ament_pyflakes.egg-info
+[1.822s] writing ../../../build/ament_pyflakes/ament_pyflakes.egg-info/PKG-INFO
+[1.822s] writing dependency_links to ../../../build/ament_pyflakes/ament_pyflakes.egg-info/dependency_links.txt
+[1.822s] writing entry points to ../../../build/ament_pyflakes/ament_pyflakes.egg-info/entry_points.txt
+[1.822s] writing requirements to ../../../build/ament_pyflakes/ament_pyflakes.egg-info/requires.txt
+[1.822s] writing top-level names to ../../../build/ament_pyflakes/ament_pyflakes.egg-info/top_level.txt
+[1.823s] writing manifest file '../../../build/ament_pyflakes/ament_pyflakes.egg-info/SOURCES.txt'
+[1.849s] reading manifest file '../../../build/ament_pyflakes/ament_pyflakes.egg-info/SOURCES.txt'
+[1.850s] writing manifest file '../../../build/ament_pyflakes/ament_pyflakes.egg-info/SOURCES.txt'
+[1.850s] running build
+[1.850s] running build_py
+[1.851s] creating /home/aziz/microros_ws1/firmware/dev_ws/build/ament_pyflakes/build
+[1.851s] creating /home/aziz/microros_ws1/firmware/dev_ws/build/ament_pyflakes/build/lib
+[1.851s] creating /home/aziz/microros_ws1/firmware/dev_ws/build/ament_pyflakes/build/lib/ament_pyflakes
+[1.851s] copying ament_pyflakes/__init__.py -> /home/aziz/microros_ws1/firmware/dev_ws/build/ament_pyflakes/build/lib/ament_pyflakes
+[1.851s] copying ament_pyflakes/main.py -> /home/aziz/microros_ws1/firmware/dev_ws/build/ament_pyflakes/build/lib/ament_pyflakes
+[1.851s] running install
+[1.852s] /home/aziz/.local/lib/python3.8/site-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.852s]   warnings.warn(
+[1.859s] running install_lib
+[1.872s] creating /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pyflakes/lib/python3.8/site-packages/ament_pyflakes
+[1.872s] copying /home/aziz/microros_ws1/firmware/dev_ws/build/ament_pyflakes/build/lib/ament_pyflakes/__init__.py -> /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pyflakes/lib/python3.8/site-packages/ament_pyflakes
+[1.872s] copying /home/aziz/microros_ws1/firmware/dev_ws/build/ament_pyflakes/build/lib/ament_pyflakes/main.py -> /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pyflakes/lib/python3.8/site-packages/ament_pyflakes
+[1.872s] byte-compiling /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pyflakes/lib/python3.8/site-packages/ament_pyflakes/__init__.py to __init__.cpython-38.pyc
+[1.872s] byte-compiling /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pyflakes/lib/python3.8/site-packages/ament_pyflakes/main.py to main.cpython-38.pyc
+[1.874s] running install_data
+[1.889s] copying package.xml -> /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pyflakes/share/ament_pyflakes
+[1.889s] creating /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pyflakes/share/ament_index
+[1.889s] creating /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pyflakes/share/ament_index/resource_index
+[1.889s] creating /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pyflakes/share/ament_index/resource_index/packages
+[1.890s] copying resource/ament_pyflakes -> /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pyflakes/share/ament_index/resource_index/packages
+[1.890s] running install_egg_info
+[1.900s] Copying ../../../build/ament_pyflakes/ament_pyflakes.egg-info to /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pyflakes/lib/python3.8/site-packages/ament_pyflakes-0.9.7-py3.8.egg-info
+[1.901s] running install_scripts
+[1.961s] Installing ament_pyflakes script to /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pyflakes/bin
+[1.962s] writing list of installed files to '/home/aziz/microros_ws1/firmware/dev_ws/build/ament_pyflakes/install.log'
+[2.062s] Invoked command in '/home/aziz/microros_ws1/firmware/dev_ws/ament/ament_lint/ament_pyflakes' returned '0': AMENT_PREFIX_PATH=/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pycodestyle PATH=/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pycodestyle/bin:${PATH} PYTHONPATH=/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pyflakes/lib/python3.8/site-packages:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pycodestyle/lib/python3.8/site-packages /usr/bin/python3 setup.py egg_info --egg-base ../../../build/ament_pyflakes build --build-base /home/aziz/microros_ws1/firmware/dev_ws/build/ament_pyflakes/build install --prefix /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pyflakes --record /home/aziz/microros_ws1/firmware/dev_ws/build/ament_pyflakes/install.log --single-version-externally-managed

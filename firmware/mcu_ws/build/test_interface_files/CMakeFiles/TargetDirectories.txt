@@ -1,0 +1,7 @@
+/home/aziz/microros_ws1/firmware/mcu_ws/build/test_interface_files/CMakeFiles/install/local.dir
+/home/aziz/microros_ws1/firmware/mcu_ws/build/test_interface_files/CMakeFiles/install.dir
+/home/aziz/microros_ws1/firmware/mcu_ws/build/test_interface_files/CMakeFiles/list_install_components.dir
+/home/aziz/microros_ws1/firmware/mcu_ws/build/test_interface_files/CMakeFiles/rebuild_cache.dir
+/home/aziz/microros_ws1/firmware/mcu_ws/build/test_interface_files/CMakeFiles/edit_cache.dir
+/home/aziz/microros_ws1/firmware/mcu_ws/build/test_interface_files/CMakeFiles/test_interface_files_uninstall.dir
+/home/aziz/microros_ws1/firmware/mcu_ws/build/test_interface_files/CMakeFiles/uninstall.dir

@@ -1,0 +1,8 @@
+/home/aziz/microros_ws1/firmware/mcu_ws/build/nav_msgs/rosidl_adapter/nav_msgs:msg/GridCells.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/nav_msgs/rosidl_adapter/nav_msgs:msg/MapMetaData.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/nav_msgs/rosidl_adapter/nav_msgs:msg/OccupancyGrid.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/nav_msgs/rosidl_adapter/nav_msgs:msg/Odometry.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/nav_msgs/rosidl_adapter/nav_msgs:msg/Path.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/nav_msgs/rosidl_adapter/nav_msgs:srv/GetMap.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/nav_msgs/rosidl_adapter/nav_msgs:srv/GetPlan.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/nav_msgs/rosidl_adapter/nav_msgs:srv/SetMap.idl

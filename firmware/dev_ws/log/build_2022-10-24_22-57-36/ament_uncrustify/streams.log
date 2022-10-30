@@ -1,0 +1,43 @@
+[1.378s] Invoking command in '/home/aziz/microros_ws1/firmware/dev_ws/ament/ament_lint/ament_uncrustify': AMENT_PREFIX_PATH=/home/aziz/microros_ws1/firmware/dev_ws/install/uncrustify_vendor CMAKE_PREFIX_PATH=/home/aziz/microros_ws1/firmware/dev_ws/install/uncrustify_vendor PYTHONPATH=/home/aziz/microros_ws1/firmware/dev_ws/install/ament_uncrustify/lib/python3.8/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../../build/ament_uncrustify build --build-base /home/aziz/microros_ws1/firmware/dev_ws/build/ament_uncrustify/build install --prefix /home/aziz/microros_ws1/firmware/dev_ws/install/ament_uncrustify --record /home/aziz/microros_ws1/firmware/dev_ws/build/ament_uncrustify/install.log --single-version-externally-managed
+[1.800s] running egg_info
+[1.800s] creating ../../../build/ament_uncrustify/ament_uncrustify.egg-info
+[1.812s] writing ../../../build/ament_uncrustify/ament_uncrustify.egg-info/PKG-INFO
+[1.813s] writing dependency_links to ../../../build/ament_uncrustify/ament_uncrustify.egg-info/dependency_links.txt
+[1.813s] writing entry points to ../../../build/ament_uncrustify/ament_uncrustify.egg-info/entry_points.txt
+[1.813s] writing requirements to ../../../build/ament_uncrustify/ament_uncrustify.egg-info/requires.txt
+[1.813s] writing top-level names to ../../../build/ament_uncrustify/ament_uncrustify.egg-info/top_level.txt
+[1.814s] writing manifest file '../../../build/ament_uncrustify/ament_uncrustify.egg-info/SOURCES.txt'
+[1.840s] reading manifest file '../../../build/ament_uncrustify/ament_uncrustify.egg-info/SOURCES.txt'
+[1.841s] writing manifest file '../../../build/ament_uncrustify/ament_uncrustify.egg-info/SOURCES.txt'
+[1.841s] running build
+[1.841s] running build_py
+[1.841s] creating /home/aziz/microros_ws1/firmware/dev_ws/build/ament_uncrustify/build
+[1.842s] creating /home/aziz/microros_ws1/firmware/dev_ws/build/ament_uncrustify/build/lib
+[1.842s] creating /home/aziz/microros_ws1/firmware/dev_ws/build/ament_uncrustify/build/lib/ament_uncrustify
+[1.842s] copying ament_uncrustify/__init__.py -> /home/aziz/microros_ws1/firmware/dev_ws/build/ament_uncrustify/build/lib/ament_uncrustify
+[1.842s] copying ament_uncrustify/main.py -> /home/aziz/microros_ws1/firmware/dev_ws/build/ament_uncrustify/build/lib/ament_uncrustify
+[1.842s] creating /home/aziz/microros_ws1/firmware/dev_ws/build/ament_uncrustify/build/lib/ament_uncrustify/configuration
+[1.842s] copying ament_uncrustify/configuration/ament_code_style.cfg -> /home/aziz/microros_ws1/firmware/dev_ws/build/ament_uncrustify/build/lib/ament_uncrustify/configuration
+[1.842s] running install
+[1.842s] /home/aziz/.local/lib/python3.8/site-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.843s]   warnings.warn(
+[1.849s] running install_lib
+[1.861s] creating /home/aziz/microros_ws1/firmware/dev_ws/install/ament_uncrustify/lib/python3.8/site-packages/ament_uncrustify
+[1.861s] creating /home/aziz/microros_ws1/firmware/dev_ws/install/ament_uncrustify/lib/python3.8/site-packages/ament_uncrustify/configuration
+[1.862s] copying /home/aziz/microros_ws1/firmware/dev_ws/build/ament_uncrustify/build/lib/ament_uncrustify/configuration/ament_code_style.cfg -> /home/aziz/microros_ws1/firmware/dev_ws/install/ament_uncrustify/lib/python3.8/site-packages/ament_uncrustify/configuration
+[1.862s] copying /home/aziz/microros_ws1/firmware/dev_ws/build/ament_uncrustify/build/lib/ament_uncrustify/__init__.py -> /home/aziz/microros_ws1/firmware/dev_ws/install/ament_uncrustify/lib/python3.8/site-packages/ament_uncrustify
+[1.862s] copying /home/aziz/microros_ws1/firmware/dev_ws/build/ament_uncrustify/build/lib/ament_uncrustify/main.py -> /home/aziz/microros_ws1/firmware/dev_ws/install/ament_uncrustify/lib/python3.8/site-packages/ament_uncrustify
+[1.862s] byte-compiling /home/aziz/microros_ws1/firmware/dev_ws/install/ament_uncrustify/lib/python3.8/site-packages/ament_uncrustify/__init__.py to __init__.cpython-38.pyc
+[1.863s] byte-compiling /home/aziz/microros_ws1/firmware/dev_ws/install/ament_uncrustify/lib/python3.8/site-packages/ament_uncrustify/main.py to main.cpython-38.pyc
+[1.865s] running install_data
+[1.877s] copying package.xml -> /home/aziz/microros_ws1/firmware/dev_ws/install/ament_uncrustify/share/ament_uncrustify
+[1.878s] creating /home/aziz/microros_ws1/firmware/dev_ws/install/ament_uncrustify/share/ament_index
+[1.878s] creating /home/aziz/microros_ws1/firmware/dev_ws/install/ament_uncrustify/share/ament_index/resource_index
+[1.878s] creating /home/aziz/microros_ws1/firmware/dev_ws/install/ament_uncrustify/share/ament_index/resource_index/packages
+[1.878s] copying resource/ament_uncrustify -> /home/aziz/microros_ws1/firmware/dev_ws/install/ament_uncrustify/share/ament_index/resource_index/packages
+[1.878s] running install_egg_info
+[1.890s] Copying ../../../build/ament_uncrustify/ament_uncrustify.egg-info to /home/aziz/microros_ws1/firmware/dev_ws/install/ament_uncrustify/lib/python3.8/site-packages/ament_uncrustify-0.9.7-py3.8.egg-info
+[1.891s] running install_scripts
+[1.952s] Installing ament_uncrustify script to /home/aziz/microros_ws1/firmware/dev_ws/install/ament_uncrustify/bin
+[1.952s] writing list of installed files to '/home/aziz/microros_ws1/firmware/dev_ws/build/ament_uncrustify/install.log'
+[2.214s] Invoked command in '/home/aziz/microros_ws1/firmware/dev_ws/ament/ament_lint/ament_uncrustify' returned '0': AMENT_PREFIX_PATH=/home/aziz/microros_ws1/firmware/dev_ws/install/uncrustify_vendor CMAKE_PREFIX_PATH=/home/aziz/microros_ws1/firmware/dev_ws/install/uncrustify_vendor PYTHONPATH=/home/aziz/microros_ws1/firmware/dev_ws/install/ament_uncrustify/lib/python3.8/site-packages: /usr/bin/python3 setup.py egg_info --egg-base ../../../build/ament_uncrustify build --build-base /home/aziz/microros_ws1/firmware/dev_ws/build/ament_uncrustify/build install --prefix /home/aziz/microros_ws1/firmware/dev_ws/install/ament_uncrustify --record /home/aziz/microros_ws1/firmware/dev_ws/build/ament_uncrustify/install.log --single-version-externally-managed

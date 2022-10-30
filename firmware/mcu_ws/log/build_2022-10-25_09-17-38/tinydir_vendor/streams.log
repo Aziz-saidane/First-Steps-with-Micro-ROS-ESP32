@@ -1,0 +1,145 @@
+[0.105s] Invoking command in '/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_uncrustify:/home/aziz/microros_ws1/firmware/dev_ws/install/domain_coordinator:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_xmllint:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pyflakes:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pycodestyle:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pep257:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pclint:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_package:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_mypy:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_lint_cmake:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_flake8:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_copyright:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_lint:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_index_python:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_cpplint:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_cppcheck:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_clang_tidy:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_clang_format /usr/bin/cmake /home/aziz/microros_ws1/firmware/mcu_ws/ros2/tinydir_vendor --no-warn-unused-cli -DCMAKE_POSITION_INDEPENDENT_CODE:BOOL=OFF -DTHIRDPARTY=ON -DBUILD_SHARED_LIBS=OFF -DBUILD_TESTING=OFF -DCMAKE_BUILD_TYPE=Debug -DCMAKE_TOOLCHAIN_FILE=/home/aziz/microros_ws1/firmware/freertos_apps/microros_esp32_extensions/esp32_toolchain.cmake -DCMAKE_VERBOSE_MAKEFILE=ON -DCMAKE_INSTALL_PREFIX=/home/aziz/microros_ws1/firmware/mcu_ws/install
+[0.133s] Not searching for unused variables given on the command line.
+[0.169s] -- The C compiler identification is GNU 8.2.0
+[0.220s] -- The CXX compiler identification is GNU 8.2.0
+[0.231s] -- Check for working C compiler: /home/aziz/microros_ws1/firmware/toolchain/espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc
+[0.303s] -- Check for working C compiler: /home/aziz/microros_ws1/firmware/toolchain/espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc -- works
+[0.303s] -- Detecting C compiler ABI info
+[0.372s] -- Detecting C compiler ABI info - done
+[0.382s] -- Detecting C compile features
+[0.382s] -- Detecting C compile features - done
+[0.385s] -- Check for working CXX compiler: /home/aziz/microros_ws1/firmware/toolchain/espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++
+[0.497s] -- Check for working CXX compiler: /home/aziz/microros_ws1/firmware/toolchain/espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++ -- works
+[0.497s] -- Detecting CXX compiler ABI info
+[0.566s] -- Detecting CXX compiler ABI info - done
+[0.577s] -- Detecting CXX compile features
+[0.583s] -- Detecting CXX compile features - done
+[0.635s] -- Found PythonInterp: /home/aziz/microros_ws1/firmware/toolchain/espressif/python_env/idf4.1_py3.8_env/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.636s] -- Using PYTHON_EXECUTABLE: /home/aziz/microros_ws1/firmware/toolchain/espressif/python_env/idf4.1_py3.8_env/bin/python3
+[0.815s] -- Configuring done
+[0.815s] -- Generating done
+[0.815s] -- Build files have been written to: /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor
+[0.829s] Invoked command in '/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_uncrustify:/home/aziz/microros_ws1/firmware/dev_ws/install/domain_coordinator:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_xmllint:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pyflakes:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pycodestyle:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pep257:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pclint:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_package:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_mypy:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_lint_cmake:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_flake8:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_copyright:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_lint:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_index_python:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_cpplint:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_cppcheck:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_clang_tidy:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_clang_format /usr/bin/cmake /home/aziz/microros_ws1/firmware/mcu_ws/ros2/tinydir_vendor --no-warn-unused-cli -DCMAKE_POSITION_INDEPENDENT_CODE:BOOL=OFF -DTHIRDPARTY=ON -DBUILD_SHARED_LIBS=OFF -DBUILD_TESTING=OFF -DCMAKE_BUILD_TYPE=Debug -DCMAKE_TOOLCHAIN_FILE=/home/aziz/microros_ws1/firmware/freertos_apps/microros_esp32_extensions/esp32_toolchain.cmake -DCMAKE_VERBOSE_MAKEFILE=ON -DCMAKE_INSTALL_PREFIX=/home/aziz/microros_ws1/firmware/mcu_ws/install
+[0.831s] Invoking command in '/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_uncrustify:/home/aziz/microros_ws1/firmware/dev_ws/install/domain_coordinator:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_xmllint:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pyflakes:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pycodestyle:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pep257:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pclint:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_package:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_mypy:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_lint_cmake:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_flake8:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_copyright:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_lint:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_index_python:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_cpplint:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_cppcheck:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_clang_tidy:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_clang_format /usr/bin/cmake --build /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor -- -j4 -l4
+[0.855s] make[4]: Entering directory '/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor'
+[0.855s] /usr/bin/cmake -S/home/aziz/microros_ws1/firmware/mcu_ws/ros2/tinydir_vendor -B/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor --check-build-system CMakeFiles/Makefile.cmake 0
+[0.866s] /usr/bin/cmake -E cmake_progress_start /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/CMakeFiles /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/CMakeFiles/progress.marks
+[0.875s] /usr/bin/make -f CMakeFiles/Makefile2 all
+[0.877s] make[5]: Entering directory '/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor'
+[0.877s] /usr/bin/make -f CMakeFiles/tinydir-1.2.4.dir/build.make CMakeFiles/tinydir-1.2.4.dir/depend
+[0.878s] make[6]: Entering directory '/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor'
+[0.878s] cd /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor && /usr/bin/cmake -E cmake_depends "Unix Makefiles" /home/aziz/microros_ws1/firmware/mcu_ws/ros2/tinydir_vendor /home/aziz/microros_ws1/firmware/mcu_ws/ros2/tinydir_vendor /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/CMakeFiles/tinydir-1.2.4.dir/DependInfo.cmake --color=
+[0.891s] Dependee "/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/CMakeFiles/tinydir-1.2.4.dir/DependInfo.cmake" is newer than depender "/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/CMakeFiles/tinydir-1.2.4.dir/depend.internal".
+[0.892s] Dependee "/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/CMakeFiles/CMakeDirectoryInformation.cmake" is newer than depender "/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/CMakeFiles/tinydir-1.2.4.dir/depend.internal".
+[0.892s] [35m[1mScanning dependencies of target tinydir-1.2.4[0m
+[0.893s] make[6]: Leaving directory '/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor'
+[0.893s] /usr/bin/make -f CMakeFiles/tinydir-1.2.4.dir/build.make CMakeFiles/tinydir-1.2.4.dir/build
+[0.901s] make[6]: Entering directory '/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor'
+[0.915s] [ 12%] [34m[1mCreating directories for 'tinydir-1.2.4'[0m
+[0.916s] /usr/bin/cmake -E make_directory /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4
+[0.926s] /usr/bin/cmake -E make_directory /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4
+[0.937s] /usr/bin/cmake -E make_directory /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4
+[0.946s] /usr/bin/cmake -E make_directory /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/tmp
+[0.961s] /usr/bin/cmake -E make_directory /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4-stamp
+[0.988s] /usr/bin/cmake -E make_directory /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src
+[1.021s] /usr/bin/cmake -E make_directory /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4-stamp
+[1.036s] /usr/bin/cmake -E touch /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4-stamp/tinydir-1.2.4-mkdir
+[1.096s] [ 25%] [34m[1mPerforming download step (download, verify and extract) for 'tinydir-1.2.4'[0m
+[1.097s] cd /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src && /usr/bin/cmake -P /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4-stamp/download-tinydir-1.2.4.cmake
+[1.107s] -- Downloading...
+[1.107s]    dst='/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/1.2.4.tar.gz'
+[1.107s]    timeout='none'
+[1.107s] -- Using src='https://github.com/cxong/tinydir/archive/1.2.4.tar.gz'
+[2.395s] -- verifying file...
+[2.395s]        file='/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/1.2.4.tar.gz'
+[2.395s] -- Downloading... done
+[2.397s] cd /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src && /usr/bin/cmake -P /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4-stamp/verify-tinydir-1.2.4.cmake
+[2.423s] cd /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src && /usr/bin/cmake -P /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4-stamp/extract-tinydir-1.2.4.cmake
+[2.450s] -- extracting...
+[2.450s]      src='/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/1.2.4.tar.gz'
+[2.450s]      dst='/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4'
+[2.450s] -- extracting... [tar xfz]
+[2.487s] -- extracting... [analysis]
+[2.487s] -- extracting... [rename]
+[2.489s] -- extracting... [clean up]
+[2.489s] -- extracting... done
+[2.489s] cd /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src && /usr/bin/cmake -E touch /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4-stamp/tinydir-1.2.4-download
+[2.529s] [ 37%] [34m[1mNo update step for 'tinydir-1.2.4'[0m
+[2.530s] /usr/bin/cmake -E echo_append
+[2.531s] [ 50%] [34m[1mPerforming patch step for 'tinydir-1.2.4'[0m
+[2.547s] cd /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4 && /usr/bin/cmake -E copy /home/aziz/microros_ws1/firmware/mcu_ws/ros2/tinydir_vendor/tinydir_cmakelists.txt /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4/CMakeLists.txt
+[2.560s] cd /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4 && /usr/bin/cmake -E touch /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4-stamp/tinydir-1.2.4-patch
+[2.571s] /usr/bin/cmake -E touch /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4-stamp/tinydir-1.2.4-update
+[2.623s] [ 62%] [34m[1mPerforming configure step for 'tinydir-1.2.4'[0m
+[2.624s] cd /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4 && /usr/bin/cmake -DCMAKE_INSTALL_PREFIX=/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir_vendor_install "-DCMAKE_CXX_FLAGS=-mlongcalls -Wno-frame-address -mlongcalls -Wno-frame-address" -DCMAKE_C_COMPILER=/home/aziz/microros_ws1/firmware/toolchain/espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc -DCMAKE_CXX_COMPILER=/home/aziz/microros_ws1/firmware/toolchain/espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++ -DCMAKE_TOOLCHAIN_FILE=/home/aziz/microros_ws1/firmware/freertos_apps/microros_esp32_extensions/esp32_toolchain.cmake "-GUnix Makefiles" /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4
+[2.651s] Re-run cmake no build system arguments
+[2.705s] -- The C compiler identification is GNU 8.2.0
+[2.758s] -- The CXX compiler identification is GNU 8.2.0
+[2.779s] -- Check for working C compiler: /home/aziz/microros_ws1/firmware/toolchain/espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc
+[2.855s] -- Check for working C compiler: /home/aziz/microros_ws1/firmware/toolchain/espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc -- works
+[2.855s] -- Detecting C compiler ABI info
+[2.932s] -- Detecting C compiler ABI info - done
+[2.932s] -- Detecting C compile features
+[2.932s] -- Detecting C compile features - done
+[2.940s] -- Check for working CXX compiler: /home/aziz/microros_ws1/firmware/toolchain/espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++
+[3.011s] -- Check for working CXX compiler: /home/aziz/microros_ws1/firmware/toolchain/espressif/tools/xtensa-esp32-elf/esp-2020r2-8.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++ -- works
+[3.011s] -- Detecting CXX compiler ABI info
+[3.072s] -- Detecting CXX compiler ABI info - done
+[3.081s] -- Detecting CXX compile features
+[3.082s] -- Detecting CXX compile features - done
+[3.083s] -- Configuring done
+[3.084s] -- Generating done
+[3.085s] -- Build files have been written to: /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4
+[3.087s] cd /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4 && /usr/bin/cmake -E touch /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4-stamp/tinydir-1.2.4-configure
+[3.106s] [ 75%] [34m[1mPerforming build step for 'tinydir-1.2.4'[0m
+[3.107s] cd /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4 && /usr/bin/make
+[3.108s] make[7]: Entering directory '/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4'
+[3.109s] /usr/bin/cmake -S/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4 -B/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4 --check-build-system CMakeFiles/Makefile.cmake 0
+[3.118s] /usr/bin/cmake -E cmake_progress_start /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4/CMakeFiles /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4/CMakeFiles/progress.marks
+[3.127s] /usr/bin/make -f CMakeFiles/Makefile2 all
+[3.128s] make[8]: Entering directory '/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4'
+[3.128s] make[8]: Nothing to be done for 'all'.
+[3.128s] make[8]: Leaving directory '/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4'
+[3.129s] /usr/bin/cmake -E cmake_progress_start /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4/CMakeFiles 0
+[3.137s] make[7]: Leaving directory '/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4'
+[3.138s] cd /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4 && /usr/bin/cmake -E touch /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4-stamp/tinydir-1.2.4-build
+[3.157s] [ 87%] [34m[1mPerforming install step for 'tinydir-1.2.4'[0m
+[3.158s] cd /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4 && /usr/bin/make install
+[3.160s] make[7]: Entering directory '/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4'
+[3.160s] /usr/bin/cmake -S/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4 -B/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4 --check-build-system CMakeFiles/Makefile.cmake 0
+[3.169s] /usr/bin/cmake -E cmake_progress_start /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4/CMakeFiles /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4/CMakeFiles/progress.marks
+[3.178s] /usr/bin/make -f CMakeFiles/Makefile2 all
+[3.179s] make[8]: Entering directory '/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4'
+[3.179s] make[8]: Nothing to be done for 'all'.
+[3.179s] make[8]: Leaving directory '/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4'
+[3.179s] /usr/bin/cmake -E cmake_progress_start /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4/CMakeFiles 0
+[3.187s] /usr/bin/make -f CMakeFiles/Makefile2 preinstall
+[3.188s] make[8]: Entering directory '/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4'
+[3.188s] make[8]: Nothing to be done for 'preinstall'.
+[3.189s] make[8]: Leaving directory '/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4'
+[3.197s] [36mInstall the project...[0m
+[3.198s] /usr/bin/cmake -P cmake_install.cmake
+[3.206s] -- Install configuration: ""
+[3.206s] -- Installing: /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir_vendor_install/include/tinydir/tinydir.h
+[3.208s] make[7]: Leaving directory '/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4'
+[3.208s] cd /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4 && /usr/bin/cmake -E touch /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4-stamp/tinydir-1.2.4-install
+[3.225s] [100%] [34m[1mCompleted 'tinydir-1.2.4'[0m
+[3.226s] /usr/bin/cmake -E make_directory /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/CMakeFiles
+[3.235s] /usr/bin/cmake -E touch /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/CMakeFiles/tinydir-1.2.4-complete
+[3.244s] /usr/bin/cmake -E touch /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/tinydir-1.2.4/src/tinydir-1.2.4-stamp/tinydir-1.2.4-done
+[3.253s] make[6]: Leaving directory '/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor'
+[3.262s] [100%] Built target tinydir-1.2.4
+[3.263s] make[5]: Leaving directory '/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor'
+[3.263s] /usr/bin/cmake -E cmake_progress_start /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor/CMakeFiles 0
+[3.272s] make[4]: Leaving directory '/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor'
+[3.486s] Invoked command in '/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_uncrustify:/home/aziz/microros_ws1/firmware/dev_ws/install/domain_coordinator:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_xmllint:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pyflakes:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pycodestyle:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pep257:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pclint:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_package:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_mypy:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_lint_cmake:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_flake8:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_copyright:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_lint:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_index_python:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_cpplint:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_cppcheck:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_clang_tidy:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_clang_format /usr/bin/cmake --build /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor -- -j4 -l4
+[3.540s] Invoking command in '/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_uncrustify:/home/aziz/microros_ws1/firmware/dev_ws/install/domain_coordinator:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_xmllint:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pyflakes:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pycodestyle:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pep257:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pclint:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_package:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_mypy:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_lint_cmake:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_flake8:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_copyright:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_lint:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_index_python:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_cpplint:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_cppcheck:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_clang_tidy:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_clang_format /usr/bin/cmake --install /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor
+[3.556s] -- Install configuration: "Debug"
+[3.557s] -- Up-to-date: /home/aziz/microros_ws1/firmware/mcu_ws/install
+[3.557s] -- Up-to-date: /home/aziz/microros_ws1/firmware/mcu_ws/install/include
+[3.557s] -- Installing: /home/aziz/microros_ws1/firmware/mcu_ws/install/include/tinydir
+[3.557s] -- Installing: /home/aziz/microros_ws1/firmware/mcu_ws/install/include/tinydir/tinydir.h
+[3.557s] -- Installing: /home/aziz/microros_ws1/firmware/mcu_ws/install/share/tinydir_vendor/package.xml
+[3.557s] -- Installing: /home/aziz/microros_ws1/firmware/mcu_ws/install/share/tinydir_vendor/cmake/tinydir_vendorConfig.cmake
+[3.557s] -- Installing: /home/aziz/microros_ws1/firmware/mcu_ws/install/share/tinydir_vendor/cmake/tinydir_vendorConfig-version.cmake
+[3.560s] Invoked command in '/home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_uncrustify:/home/aziz/microros_ws1/firmware/dev_ws/install/domain_coordinator:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_xmllint:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pyflakes:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pycodestyle:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pep257:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pclint:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_package:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_mypy:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_lint_cmake:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_flake8:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_copyright:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_lint:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_index_python:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_cpplint:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_cppcheck:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_clang_tidy:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_clang_format /usr/bin/cmake --install /home/aziz/microros_ws1/firmware/mcu_ws/build/tinydir_vendor
