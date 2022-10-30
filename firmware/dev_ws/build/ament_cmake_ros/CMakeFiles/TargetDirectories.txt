@@ -1,8 +1,0 @@
-/home/aziz/microros_ws1/firmware/dev_ws/build/ament_cmake_ros/CMakeFiles/install/local.dir
-/home/aziz/microros_ws1/firmware/dev_ws/build/ament_cmake_ros/CMakeFiles/install.dir
-/home/aziz/microros_ws1/firmware/dev_ws/build/ament_cmake_ros/CMakeFiles/list_install_components.dir
-/home/aziz/microros_ws1/firmware/dev_ws/build/ament_cmake_ros/CMakeFiles/rebuild_cache.dir
-/home/aziz/microros_ws1/firmware/dev_ws/build/ament_cmake_ros/CMakeFiles/edit_cache.dir
-/home/aziz/microros_ws1/firmware/dev_ws/build/ament_cmake_ros/CMakeFiles/test.dir
-/home/aziz/microros_ws1/firmware/dev_ws/build/ament_cmake_ros/CMakeFiles/ament_cmake_ros_uninstall.dir
-/home/aziz/microros_ws1/firmware/dev_ws/build/ament_cmake_ros/CMakeFiles/uninstall.dir

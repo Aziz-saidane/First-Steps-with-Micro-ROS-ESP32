@@ -1,8 +1,0 @@
-/home/aziz/microros_ws1/firmware/dev_ws/build/ament_cmake_flake8/CMakeFiles/install/local.dir
-/home/aziz/microros_ws1/firmware/dev_ws/build/ament_cmake_flake8/CMakeFiles/install.dir
-/home/aziz/microros_ws1/firmware/dev_ws/build/ament_cmake_flake8/CMakeFiles/list_install_components.dir
-/home/aziz/microros_ws1/firmware/dev_ws/build/ament_cmake_flake8/CMakeFiles/rebuild_cache.dir
-/home/aziz/microros_ws1/firmware/dev_ws/build/ament_cmake_flake8/CMakeFiles/edit_cache.dir
-/home/aziz/microros_ws1/firmware/dev_ws/build/ament_cmake_flake8/CMakeFiles/test.dir
-/home/aziz/microros_ws1/firmware/dev_ws/build/ament_cmake_flake8/CMakeFiles/ament_cmake_flake8_uninstall.dir
-/home/aziz/microros_ws1/firmware/dev_ws/build/ament_cmake_flake8/CMakeFiles/uninstall.dir

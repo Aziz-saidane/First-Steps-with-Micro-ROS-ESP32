@@ -1,1 +1,0 @@
-CMake Error: The current CMakeCache.txt directory /home/aziz/Desktop/First-Steps-with-Micro-ROS-ESP32/build/micro_ros_agent/CMakeCache.txt is different than the directory /home/aziz/microros_ws1/build/micro_ros_agent where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt

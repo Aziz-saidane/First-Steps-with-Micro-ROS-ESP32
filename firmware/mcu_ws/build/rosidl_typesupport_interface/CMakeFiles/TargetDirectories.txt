@@ -1,8 +1,0 @@
-/home/aziz/microros_ws1/firmware/mcu_ws/build/rosidl_typesupport_interface/CMakeFiles/install/local.dir
-/home/aziz/microros_ws1/firmware/mcu_ws/build/rosidl_typesupport_interface/CMakeFiles/install.dir
-/home/aziz/microros_ws1/firmware/mcu_ws/build/rosidl_typesupport_interface/CMakeFiles/list_install_components.dir
-/home/aziz/microros_ws1/firmware/mcu_ws/build/rosidl_typesupport_interface/CMakeFiles/rebuild_cache.dir
-/home/aziz/microros_ws1/firmware/mcu_ws/build/rosidl_typesupport_interface/CMakeFiles/edit_cache.dir
-/home/aziz/microros_ws1/firmware/mcu_ws/build/rosidl_typesupport_interface/CMakeFiles/test.dir
-/home/aziz/microros_ws1/firmware/mcu_ws/build/rosidl_typesupport_interface/CMakeFiles/rosidl_typesupport_interface_uninstall.dir
-/home/aziz/microros_ws1/firmware/mcu_ws/build/rosidl_typesupport_interface/CMakeFiles/uninstall.dir
