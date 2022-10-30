@@ -1,0 +1,17 @@
+/home/aziz/microros_ws1/firmware/mcu_ws/build/rcl_interfaces/rosidl_adapter/rcl_interfaces:msg/FloatingPointRange.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/rcl_interfaces/rosidl_adapter/rcl_interfaces:msg/IntegerRange.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/rcl_interfaces/rosidl_adapter/rcl_interfaces:msg/ListParametersResult.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/rcl_interfaces/rosidl_adapter/rcl_interfaces:msg/Log.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/rcl_interfaces/rosidl_adapter/rcl_interfaces:msg/ParameterDescriptor.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/rcl_interfaces/rosidl_adapter/rcl_interfaces:msg/ParameterEventDescriptors.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/rcl_interfaces/rosidl_adapter/rcl_interfaces:msg/ParameterEvent.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/rcl_interfaces/rosidl_adapter/rcl_interfaces:msg/Parameter.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/rcl_interfaces/rosidl_adapter/rcl_interfaces:msg/ParameterType.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/rcl_interfaces/rosidl_adapter/rcl_interfaces:msg/ParameterValue.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/rcl_interfaces/rosidl_adapter/rcl_interfaces:msg/SetParametersResult.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/rcl_interfaces/rosidl_adapter/rcl_interfaces:srv/DescribeParameters.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/rcl_interfaces/rosidl_adapter/rcl_interfaces:srv/GetParameters.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/rcl_interfaces/rosidl_adapter/rcl_interfaces:srv/GetParameterTypes.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/rcl_interfaces/rosidl_adapter/rcl_interfaces:srv/ListParameters.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/rcl_interfaces/rosidl_adapter/rcl_interfaces:srv/SetParametersAtomically.idl
+/home/aziz/microros_ws1/firmware/mcu_ws/build/rcl_interfaces/rosidl_adapter/rcl_interfaces:srv/SetParameters.idl

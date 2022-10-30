@@ -1,0 +1,22 @@
+[1.496s] Invoking command in '/home/aziz/microros_ws1/firmware/mcu_ws/uros/tracetools/ros2trace': AMENT_PREFIX_PATH=/home/aziz/microros_ws1/firmware/mcu_ws/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/aziz/microros_ws1/firmware/mcu_ws/install:${CMAKE_PREFIX_PATH} PYTHONPATH=/home/aziz/microros_ws1/firmware/mcu_ws/install/lib/python3.8/site-packages:/home/aziz/microros_ws1/firmware/mcu_ws/install/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/ros2trace build --build-base /home/aziz/microros_ws1/firmware/mcu_ws/build/ros2trace/build install --prefix /home/aziz/microros_ws1/firmware/mcu_ws/install --record /home/aziz/microros_ws1/firmware/mcu_ws/build/ros2trace/install.log --single-version-externally-managed
+[1.950s] running egg_info
+[1.964s] writing ../../../build/ros2trace/ros2trace.egg-info/PKG-INFO
+[1.965s] writing dependency_links to ../../../build/ros2trace/ros2trace.egg-info/dependency_links.txt
+[1.965s] writing entry points to ../../../build/ros2trace/ros2trace.egg-info/entry_points.txt
+[1.965s] writing requirements to ../../../build/ros2trace/ros2trace.egg-info/requires.txt
+[1.965s] writing top-level names to ../../../build/ros2trace/ros2trace.egg-info/top_level.txt
+[1.996s] reading manifest file '../../../build/ros2trace/ros2trace.egg-info/SOURCES.txt'
+[1.997s] writing manifest file '../../../build/ros2trace/ros2trace.egg-info/SOURCES.txt'
+[1.998s] running build
+[1.998s] running build_py
+[1.999s] running install
+[1.999s] /home/aziz/.local/lib/python3.8/site-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.999s]   warnings.warn(
+[2.005s] running install_lib
+[2.020s] running install_data
+[2.035s] running install_egg_info
+[2.050s] removing '/home/aziz/microros_ws1/firmware/mcu_ws/install/lib/python3.8/site-packages/ros2trace-1.0.2-py3.8.egg-info' (and everything under it)
+[2.051s] Copying ../../../build/ros2trace/ros2trace.egg-info to /home/aziz/microros_ws1/firmware/mcu_ws/install/lib/python3.8/site-packages/ros2trace-1.0.2-py3.8.egg-info
+[2.052s] running install_scripts
+[2.124s] writing list of installed files to '/home/aziz/microros_ws1/firmware/mcu_ws/build/ros2trace/install.log'
+[2.182s] Invoked command in '/home/aziz/microros_ws1/firmware/mcu_ws/uros/tracetools/ros2trace' returned '0': AMENT_PREFIX_PATH=/home/aziz/microros_ws1/firmware/mcu_ws/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/aziz/microros_ws1/firmware/mcu_ws/install:${CMAKE_PREFIX_PATH} PYTHONPATH=/home/aziz/microros_ws1/firmware/mcu_ws/install/lib/python3.8/site-packages:/home/aziz/microros_ws1/firmware/mcu_ws/install/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/ros2trace build --build-base /home/aziz/microros_ws1/firmware/mcu_ws/build/ros2trace/build install --prefix /home/aziz/microros_ws1/firmware/mcu_ws/install --record /home/aziz/microros_ws1/firmware/mcu_ws/build/ros2trace/install.log --single-version-externally-managed

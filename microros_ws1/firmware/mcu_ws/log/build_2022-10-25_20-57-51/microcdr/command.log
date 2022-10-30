@@ -1,0 +1,4 @@
+Invoking command in '/home/aziz/microros_ws1/firmware/mcu_ws/build/microcdr': /usr/bin/cmake --build /home/aziz/microros_ws1/firmware/mcu_ws/build/microcdr -- -j4 -l4
+Invoked command in '/home/aziz/microros_ws1/firmware/mcu_ws/build/microcdr' returned '0': /usr/bin/cmake --build /home/aziz/microros_ws1/firmware/mcu_ws/build/microcdr -- -j4 -l4
+Invoking command in '/home/aziz/microros_ws1/firmware/mcu_ws/build/microcdr': /usr/bin/cmake --install /home/aziz/microros_ws1/firmware/mcu_ws/build/microcdr
+Invoked command in '/home/aziz/microros_ws1/firmware/mcu_ws/build/microcdr' returned '0': /usr/bin/cmake --install /home/aziz/microros_ws1/firmware/mcu_ws/build/microcdr

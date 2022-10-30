@@ -1,0 +1,27 @@
+[2.200s] Invoking command in '/home/aziz/microros_ws1/firmware/mcu_ws/uros/tracetools/tracetools_trace': PYTHONPATH=/home/aziz/microros_ws1/firmware/mcu_ws/install/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/tracetools_trace build --build-base /home/aziz/microros_ws1/firmware/mcu_ws/build/tracetools_trace/build install --prefix /home/aziz/microros_ws1/firmware/mcu_ws/install --record /home/aziz/microros_ws1/firmware/mcu_ws/build/tracetools_trace/install.log --single-version-externally-managed
+[2.602s] /home/aziz/.local/lib/python3.8/site-packages/setuptools/dist.py:771: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[2.602s]   warnings.warn(
+[2.608s] /home/aziz/.local/lib/python3.8/site-packages/setuptools/dist.py:771: UserWarning: Usage of dash-separated 'install-scripts' will not be supported in future versions. Please use the underscore name 'install_scripts' instead
+[2.608s]   warnings.warn(
+[2.697s] running egg_info
+[2.714s] writing ../../../build/tracetools_trace/tracetools_trace.egg-info/PKG-INFO
+[2.714s] writing dependency_links to ../../../build/tracetools_trace/tracetools_trace.egg-info/dependency_links.txt
+[2.714s] writing entry points to ../../../build/tracetools_trace/tracetools_trace.egg-info/entry_points.txt
+[2.714s] writing requirements to ../../../build/tracetools_trace/tracetools_trace.egg-info/requires.txt
+[2.714s] writing top-level names to ../../../build/tracetools_trace/tracetools_trace.egg-info/top_level.txt
+[2.746s] reading manifest file '../../../build/tracetools_trace/tracetools_trace.egg-info/SOURCES.txt'
+[2.748s] writing manifest file '../../../build/tracetools_trace/tracetools_trace.egg-info/SOURCES.txt'
+[2.748s] running build
+[2.748s] running build_py
+[2.749s] running install
+[2.749s] /home/aziz/.local/lib/python3.8/site-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.749s]   warnings.warn(
+[2.755s] running install_lib
+[2.772s] running install_data
+[2.787s] running install_egg_info
+[2.803s] removing '/home/aziz/microros_ws1/firmware/mcu_ws/install/lib/python3.8/site-packages/tracetools_trace-1.0.2-py3.8.egg-info' (and everything under it)
+[2.803s] Copying ../../../build/tracetools_trace/tracetools_trace.egg-info to /home/aziz/microros_ws1/firmware/mcu_ws/install/lib/python3.8/site-packages/tracetools_trace-1.0.2-py3.8.egg-info
+[2.804s] running install_scripts
+[2.893s] Installing trace script to /home/aziz/microros_ws1/firmware/mcu_ws/install/lib/tracetools_trace
+[2.894s] writing list of installed files to '/home/aziz/microros_ws1/firmware/mcu_ws/build/tracetools_trace/install.log'
+[2.958s] Invoked command in '/home/aziz/microros_ws1/firmware/mcu_ws/uros/tracetools/tracetools_trace' returned '0': PYTHONPATH=/home/aziz/microros_ws1/firmware/mcu_ws/install/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/tracetools_trace build --build-base /home/aziz/microros_ws1/firmware/mcu_ws/build/tracetools_trace/build install --prefix /home/aziz/microros_ws1/firmware/mcu_ws/install --record /home/aziz/microros_ws1/firmware/mcu_ws/build/tracetools_trace/install.log --single-version-externally-managed

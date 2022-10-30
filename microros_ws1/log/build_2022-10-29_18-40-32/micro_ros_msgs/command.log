@@ -1,0 +1,2 @@
+Invoking command in '/home/aziz/microros_ws1/build/micro_ros_msgs': /usr/bin/cmake /home/aziz/microros_ws1/src/uros/micro_ros_msgs -DCMAKE_INSTALL_PREFIX=/home/aziz/microros_ws1/install/micro_ros_msgs
+Invoked command in '/home/aziz/microros_ws1/build/micro_ros_msgs' returned '1': /usr/bin/cmake /home/aziz/microros_ws1/src/uros/micro_ros_msgs -DCMAKE_INSTALL_PREFIX=/home/aziz/microros_ws1/install/micro_ros_msgs

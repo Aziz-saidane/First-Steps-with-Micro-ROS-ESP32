@@ -1,0 +1,42 @@
+[1.510s] Invoking command in '/home/aziz/microros_ws1/firmware/dev_ws/ament/ament_lint/ament_pep257': AMENT_PREFIX_PATH=/home/aziz/microros_ws1/firmware/dev_ws/install/ament_flake8:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_lint PATH=/home/aziz/microros_ws1/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pep257/lib/python3.8/site-packages:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_flake8/lib/python3.8/site-packages:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_lint/lib/python3.8/site-packages /usr/bin/python3 setup.py egg_info --egg-base ../../../build/ament_pep257 build --build-base /home/aziz/microros_ws1/firmware/dev_ws/build/ament_pep257/build install --prefix /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pep257 --record /home/aziz/microros_ws1/firmware/dev_ws/build/ament_pep257/install.log --single-version-externally-managed
+[2.045s] running egg_info
+[2.045s] creating ../../../build/ament_pep257/ament_pep257.egg-info
+[2.058s] writing ../../../build/ament_pep257/ament_pep257.egg-info/PKG-INFO
+[2.058s] writing dependency_links to ../../../build/ament_pep257/ament_pep257.egg-info/dependency_links.txt
+[2.058s] writing entry points to ../../../build/ament_pep257/ament_pep257.egg-info/entry_points.txt
+[2.058s] writing requirements to ../../../build/ament_pep257/ament_pep257.egg-info/requires.txt
+[2.058s] writing top-level names to ../../../build/ament_pep257/ament_pep257.egg-info/top_level.txt
+[2.058s] writing manifest file '../../../build/ament_pep257/ament_pep257.egg-info/SOURCES.txt'
+[2.095s] /home/aziz/.local/lib/python3.8/site-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.095s] reading manifest file '../../../build/ament_pep257/ament_pep257.egg-info/SOURCES.txt'
+[2.095s] writing manifest file '../../../build/ament_pep257/ament_pep257.egg-info/SOURCES.txt'
+[2.095s] running build
+[2.095s] running build_py
+[2.095s] creating /home/aziz/microros_ws1/firmware/dev_ws/build/ament_pep257/build
+[2.095s] creating /home/aziz/microros_ws1/firmware/dev_ws/build/ament_pep257/build/lib
+[2.095s] creating /home/aziz/microros_ws1/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257
+[2.096s] copying ament_pep257/pytest_marker.py -> /home/aziz/microros_ws1/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257
+[2.096s] copying ament_pep257/__init__.py -> /home/aziz/microros_ws1/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257
+[2.096s] copying ament_pep257/main.py -> /home/aziz/microros_ws1/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257
+[2.096s] running install
+[2.096s]   warnings.warn(
+[2.104s] running install_lib
+[2.118s] creating /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pep257/lib/python3.8/site-packages/ament_pep257
+[2.118s] copying /home/aziz/microros_ws1/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257/pytest_marker.py -> /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pep257/lib/python3.8/site-packages/ament_pep257
+[2.118s] copying /home/aziz/microros_ws1/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257/__init__.py -> /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pep257/lib/python3.8/site-packages/ament_pep257
+[2.118s] copying /home/aziz/microros_ws1/firmware/dev_ws/build/ament_pep257/build/lib/ament_pep257/main.py -> /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pep257/lib/python3.8/site-packages/ament_pep257
+[2.118s] byte-compiling /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pep257/lib/python3.8/site-packages/ament_pep257/pytest_marker.py to pytest_marker.cpython-38.pyc
+[2.118s] byte-compiling /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pep257/lib/python3.8/site-packages/ament_pep257/__init__.py to __init__.cpython-38.pyc
+[2.118s] byte-compiling /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pep257/lib/python3.8/site-packages/ament_pep257/main.py to main.cpython-38.pyc
+[2.118s] running install_data
+[2.129s] copying package.xml -> /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pep257/share/ament_pep257
+[2.130s] creating /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pep257/share/ament_index
+[2.130s] creating /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pep257/share/ament_index/resource_index
+[2.130s] creating /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pep257/share/ament_index/resource_index/packages
+[2.130s] copying resource/ament_pep257 -> /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pep257/share/ament_index/resource_index/packages
+[2.130s] running install_egg_info
+[2.142s] Copying ../../../build/ament_pep257/ament_pep257.egg-info to /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pep257/lib/python3.8/site-packages/ament_pep257-0.9.7-py3.8.egg-info
+[2.143s] running install_scripts
+[2.223s] Installing ament_pep257 script to /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pep257/bin
+[2.223s] writing list of installed files to '/home/aziz/microros_ws1/firmware/dev_ws/build/ament_pep257/install.log'
+[2.303s] Invoked command in '/home/aziz/microros_ws1/firmware/dev_ws/ament/ament_lint/ament_pep257' returned '0': AMENT_PREFIX_PATH=/home/aziz/microros_ws1/firmware/dev_ws/install/ament_flake8:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_lint PATH=/home/aziz/microros_ws1/firmware/dev_ws/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/aziz/microros_ws1/firmware/dev_ws/install/ament_pep257/lib/python3.8/site-packages:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_flake8/lib/python3.8/site-packages:/home/aziz/microros_ws1/firmware/dev_ws/install/ament_lint/lib/python3.8/site-packages /usr/bin/python3 setup.py egg_info --egg-base ../../../build/ament_pep257 build --build-base /home/aziz/microros_ws1/firmware/dev_ws/build/ament_pep257/build install --prefix /home/aziz/microros_ws1/firmware/dev_ws/install/ament_pep257 --record /home/aziz/microros_ws1/firmware/dev_ws/build/ament_pep257/install.log --single-version-externally-managed
