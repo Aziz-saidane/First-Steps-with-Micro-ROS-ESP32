@@ -6,7 +6,7 @@
 # First-Steps-with-Micro-ROS-ESP32
 
 This project is inspired from the core tutorials to install the micro-ROS build system: https://micro.ros.org/docs/tutorials/core/first_application_rtos/
-
+It works for ROS2 Foxy and solves some problems encountred in the process.
 
 # Installing the micro-ROS build system
 
@@ -15,12 +15,12 @@ Now, follow these steps to install the micro-ROS build system:
 
 ```
 # Source the ROS 2 installation
-$ source /opt/ros/$ROS_DISTRO/setup.bash
+$ source /opt/ros/foxy/setup.bash
 
 # Create a workspace and download the micro-ROS tools
 $ mkdir microros_ws
 $ cd microros_ws
-$ git clone -b $ROS_DISTRO https://github.com/micro-ROS/micro_ros_setup.git src/micro_ros_setup
+$ git clone -b foxy https://github.com/micro-ROS/micro_ros_setup.git src/micro_ros_setup
 
 # Update dependencies using rosdep
 $ sudo apt update && rosdep update
